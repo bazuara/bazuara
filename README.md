@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![42 stats](https://badge42.herokuapp.com/api/stats/bazuara)](https://github.com/JaeSeoKim/badge42)
+
+
 <!--
 **bazuara/bazuara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
