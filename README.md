@@ -2,9 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bazuara&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![bazuara's 42 stats](https://badge42.vercel.app/api/v2/cl3bqc088007309kybd83h97w/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuara&layout=compact&theme=merko&langs_count=10&hide=php,javaScript,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuara&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bazuara/bazuara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
