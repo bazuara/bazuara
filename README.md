@@ -6,6 +6,8 @@
 [![bazuara's 42 stats](https://badge42.vercel.app/api/v2/cl3bqc088007309kybd83h97w/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bazuara&theme=github_dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuara&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
